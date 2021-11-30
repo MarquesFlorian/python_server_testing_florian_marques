@@ -17,3 +17,4 @@ You are to create a python website, using flask, that calculates the mean of GET
 - To launch the application with docker : `docker run -p 5000:5000 docker_python_test`
 - To launch it with docker compose : `docker-compose up`
 - Try this link for the sum: `http://127.0.0.1:5000/means?int=1&int=2&int=5`
+- Launch tests : `python -m pytest .`
